@@ -711,6 +711,7 @@ figure{
   margin-top: auto;
   height: 40%;
   width: 100%;
+  margin-bottom: 30px;
 }
 
 .email .email-title{
@@ -731,7 +732,7 @@ figure{
 /* Footer */
 footer {
   padding: 20px;
-  margin-top: 0px;
+  margin-top: 30px;
   color: #003366;
   background-color: #cccccc;
   text-align: center;
