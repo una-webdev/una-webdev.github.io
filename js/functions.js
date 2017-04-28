@@ -314,7 +314,7 @@ $(window).scroll(function(){
   }
 
   $('.logo-img').css({
-    'transform' : 'translate(0px, '+ wScroll /2 +'%)'
+    'transform' : 'translate(0px, '+ wScroll /2.5 +'%)'
   })
 
 });
