@@ -99,7 +99,7 @@ figure{
 
 /* Showcase 1 */
 
-.showcase{
+#showcase{
   margin:auto;
   padding: 0;
   position: relative;
@@ -748,4 +748,18 @@ footer {
   width: 60%;
   height: 100%;
   margin-right: 0px;
+}
+
+.back-to-top{
+  width: 70px;
+  height: 70px;
+  right: 2em;
+  bottom: 2em;
+  position: fixed;
+  cursor: pointer;
+  opacity: 0.75;
+}
+
+.back-to-top:hover{
+  opacity: 1;
 }
