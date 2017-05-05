@@ -738,6 +738,16 @@ footer {
   text-align: center;
 }
 
+footer a{
+  color: #003366;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+footer a:hover{
+  color: #ffffff;
+}
+
 .credit{
   width: 40%;
   height: 100%;
